@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1655311912 source:c:\adrian\.pg\semestr 2\techniki programowania\projekty\projekt 2 pasjans klondike\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<cstring>
+	<string>
+
