@@ -17,3 +17,4 @@ Opis działania programu:
   - Dobierz kartę - Gracz kładzie wierzchnią kartę z kupki na spód kupki i odsłania nową wierzchnią kartę
   - Przenieś kartę na górną kupkę - Gracz kładzie na górny panel wybraną kartę (w jednej kolumnie ta sama figura, a kolejność rosnąca) 
   - Przenieś karty na inną kolumnę - Gracz przekłada daną kartę i każdą pod nią na określoną inną kartę 
+  - Wartość i Kolor oddzielamy spacją, podajemy tylko małe litery i cyfry
